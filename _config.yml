@@ -1,0 +1,21 @@
+##############
+# Grace Cafe #
+##############
+
+title: Grace Café
+email: danny.ta1602@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Experience True Simplicity.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://gracecityhall.ca" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: gracecafe
+instagram_username: gracecafe
+facebook_username: gracecafe
+
+# Build settings
+markdown: kramdown
+
+plugins: [bootstrap, autoprefixer-rails, jekyll-assets]
+
+sass:
+sass_dir: _sass

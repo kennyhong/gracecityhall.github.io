@@ -1,0 +1,44 @@
+---
+---
+
+@import "variables";
+@import "bootstrap/bootstrap";
+
+.main {
+
+    background-image: url("../assets/imgs/test.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+  text-align: center;
+
+  .date-lead {
+    margin-top: 50px;
+  }
+
+  .lead {
+    margin-top: 0.5em;
+    font-weight: 400;
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+    @media (min-width: 768px) {
+      font-size: 2.2em;
+    }
+  }
+
+  .subtitle {
+    margin-bottom: 1em;
+  }
+
+  .splash--image {
+    width: 100%;
+    max-width: 800px;
+  }
+
+}
