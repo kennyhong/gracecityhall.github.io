@@ -18,4 +18,4 @@ markdown: kramdown
 plugins: [bootstrap, autoprefixer-rails, jekyll-assets]
 
 sass:
-sass_dir: _sass
+  sass_dir: _sass
