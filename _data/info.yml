@@ -1,0 +1,60 @@
+info:
+  - hours:
+    special_hours:
+    event_text_1:
+    event_text_2:
+    event_text_3:
+    address:
+    city:
+    telephone:
+    email:
+
+menu:
+  - section: Appetizers
+    items:
+      - name: Grace Taco Salad
+        ingredients: Chilli Beef / Kidney Beans / Tomatoes / Salsa Crema Dressing / Avocado
+      - name: Crispy Kale Caesar Salad (Vegan Option Available)
+        ingredients: Kale Chips / Garlic Crumbs / Asiago / Parmesan
+      - name: Glazed Beets Quinoa Salad (Vegan)
+        ingredients: Lemon Oil Infused Quinoa / Roasted Beets / Balsamic Glaze / Tomatoes
+      - name: Baked Potato Salad
+        ingredients: Bacon Bits / Green Onion / Roasted Pepper & Corn / House Buttermilk Dressing
+      - name: French Fries
+        ingredients: Double Blanched / House Seasoning - Add Gravy $0.50
+      - name: \"Chillay" & Fries
+        ingredients: House "Chillay" / Shredded Marble / Green Onions / Sour Crème
+  - section: Warm Hearty Soups (Made Fresh Daily, All Gluten Free!)
+    items:
+      - name: Potato & Leeks
+        ingredients: Topped With Shredded Marble / Green Onions
+      - name: Corn & Bacon Chowder
+        ingredients: Fresh Parsley / Valentina Hot Sauce
+      - name: Spiced Tomato (Vegan)
+        ingredients: Crispy Tortilla Chips / Fresh Parsley
+  - section: Mains
+    items: 
+      - name: Valentina Chicken Taco
+        ingredients: Chipotle Adobo Chicken / Fresh Corn & Pinapple Salsa / Valentina Hot Sauce / Jalapeno Crema
+      - name: Pork Bao Buns (2 Pieces)
+        ingredients: Sweet Soy Glazed Pork / House Pickle / Chilly Aioli / Toasted Peanuts
+      - name: Chicken Bao Buns (2 Pieces) 
+        ingredients: Spicy Ginger Glazed Chicken / House Pickle / Chilly Aioli / Toasted Peanuts
+      - name: The "Grace" Burger
+        ingredients: 5 oz Seasoned Patty / Garlic Mayo / House Tomato Relish / Mustard / 2 Slices of Bacon / Swiss Cheese
+      - name: Grace Royale Burger
+        ingredients: 5 oz Seasoned Patty / Mushroom Gravy / Onion Remoulade / Mustard / Swiss Cheese
+      - name: Classic Reuben
+        ingredients: Corn Beef / Sauerkraut / Thousand Island / Marble Rye
+      - name: Buffalo Chicken Wrap
+        ingredients: Grilled Garlic Chicken / Tomato & Onion / House Buffalo Sauce
+      - name: Turkey Bacon Clubhouse
+        ingredients: Back Bacon / Lettuce / Tomoato / Cucumber / Onions / Sliced Marble
+      - name: The Philly Cheese WannaBe
+        ingredients: Homemade Beef Base Dog / Tomato Relish / Dark Ale Infused Cheddar / Banana Peppers
+      - name: The Healthiest Dog (Vegan)
+        ingredients: Homemade Corn & Mushroom Base Dog / Onion & Jalapeno Relish / Kale Chips / House Spicy Ketchup
+      - name: Crunchy Thai Bowl (Vegan)
+        ingredients: Coconut Rice / Stir-Fried Veggies / House Thai Red Curry / Pickle / Crispy Onion / Toasted Peanuts
+      - name: Vietnamese Rice Bowl
+        ingredients: Coconut Rice / Spicy Ginger Glazed Pork / Veggies / Pickle / Fried Egg
