@@ -1,16 +1,18 @@
 info:
-  - hours:
+  - hours: "<br>Mon - Fri: 7 AM - 3:30 PM <br> Sat / Sun: CLOSED"
     special_hours:
     event_text_1:
     event_text_2:
     event_text_3:
-    address:
-    city:
-    telephone:
-    email:
+    address: 510 Main Street
+    city: Winnipeg, Manitoba
+    telephone: +1 (204) 946-0265
+    email: chris@gracecafe.com
 
-menu:
-  - section: Appetizers
+appetizers:
+    title: Salads
+    main: 7.50
+    side: 4.50
     items:
       - name: Grace Taco Salad
         ingredients: Chilli Beef / Kidney Beans / Tomatoes / Salsa Crema Dressing / Avocado
@@ -18,13 +20,12 @@ menu:
         ingredients: Kale Chips / Garlic Crumbs / Asiago / Parmesan
       - name: Glazed Beets Quinoa Salad (Vegan)
         ingredients: Lemon Oil Infused Quinoa / Roasted Beets / Balsamic Glaze / Tomatoes
-      - name: Baked Potato Salad
-        ingredients: Bacon Bits / Green Onion / Roasted Pepper & Corn / House Buttermilk Dressing
-      - name: French Fries
-        ingredients: Double Blanched / House Seasoning - Add Gravy $0.50
-      - name: \"Chillay" & Fries
-        ingredients: House "Chillay" / Shredded Marble / Green Onions / Sour Crème
-  - section: Warm Hearty Soups (Made Fresh Daily, All Gluten Free!)
+
+soups:
+    title: Warm Hearty Soups
+    subtitle: Made Fresh Daily, All Gluten Free!
+    large: 5.25
+    small: 4.25
     items:
       - name: Potato & Leeks
         ingredients: Topped With Shredded Marble / Green Onions
@@ -32,29 +33,48 @@ menu:
         ingredients: Fresh Parsley / Valentina Hot Sauce
       - name: Spiced Tomato (Vegan)
         ingredients: Crispy Tortilla Chips / Fresh Parsley
-  - section: Mains
+mains:
+    title: Mains
     items: 
+      - name: Baked Potato Salad
+        ingredients: Bacon Bits / Green Onions / Roasted Pepper & Corn Relish / House Buttermilk Dressing
+        price: 5.50
+      - name: French Fries
+        ingredients: Double Blanched / House Seasoning / Add Gravy .50
+        price: 3.50
+      - name: Tenders and Fries
+        ingredients: Served With Butter Ranch or Honey Dill
+        price: 9.95
+      - name: Marinated Tomatoes & Avocado Toast (Vegan)
+        ingredients: Crushed Avocado / Lemon Basil Tomatoes / Coconut Whip / Crispy Onion
+        price: 6.50
       - name: Valentina Chicken Taco
-        ingredients: Chipotle Adobo Chicken / Fresh Corn & Pinapple Salsa / Valentina Hot Sauce / Jalapeno Crema
-      - name: Pork Bao Buns (2 Pieces)
+        ingredients: Chipotle Adobo Chicken / Fresh Corn & Pineapple Salsa / Valentina Hot Sauce / Jalapeno Crema
+        price: 6.75
+      - name: Pork Steamed Buns (2 Pieces)
         ingredients: Sweet Soy Glazed Pork / House Pickle / Chilly Aioli / Toasted Peanuts
-      - name: Chicken Bao Buns (2 Pieces) 
+        price: 6.50
+      - name: Chicken Steamed Buns (2 Pieces) 
         ingredients: Spicy Ginger Glazed Chicken / House Pickle / Chilly Aioli / Toasted Peanuts
-      - name: The "Grace" Burger
+        price: 6.50
+      - name: The "Grace" Burger w/ Choice of Side
         ingredients: 5 oz Seasoned Patty / Garlic Mayo / House Tomato Relish / Mustard / 2 Slices of Bacon / Swiss Cheese
-      - name: Grace Royale Burger
+        price: 10.50
+      - name: Grace Royale Burger w/ Choice of Side
         ingredients: 5 oz Seasoned Patty / Mushroom Gravy / Onion Remoulade / Mustard / Swiss Cheese
-      - name: Classic Reuben
+        price: 12.50
+      - name: Classic Reuben w/ Choice of Side
         ingredients: Corn Beef / Sauerkraut / Thousand Island / Marble Rye
+        price: 9.50
       - name: Buffalo Chicken Wrap
         ingredients: Grilled Garlic Chicken / Tomato & Onion / House Buffalo Sauce
-      - name: Turkey Bacon Clubhouse
-        ingredients: Back Bacon / Lettuce / Tomoato / Cucumber / Onions / Sliced Marble
+        price: 8.50
       - name: The Philly Cheese WannaBe
         ingredients: Homemade Beef Base Dog / Tomato Relish / Dark Ale Infused Cheddar / Banana Peppers
-      - name: The Healthiest Dog (Vegan)
-        ingredients: Homemade Corn & Mushroom Base Dog / Onion & Jalapeno Relish / Kale Chips / House Spicy Ketchup
+        price: 8.50
       - name: Crunchy Thai Bowl (Vegan)
         ingredients: Coconut Rice / Stir-Fried Veggies / House Thai Red Curry / Pickle / Crispy Onion / Toasted Peanuts
+        price: 7.00
       - name: Vietnamese Rice Bowl
         ingredients: Coconut Rice / Spicy Ginger Glazed Pork / Veggies / Pickle / Fried Egg
+        price: 7.50
