@@ -15,7 +15,7 @@ appetizers:
     side: 4.50
     items:
       - name: Grace Taco Salad
-        ingredients: Chilli Beef / Kidney Beans / Tomatoes / Salsa Crema Dressing / Avocado
+        ingredients: Chilli Beef / Kidney Beans / Tomatoes / Salsa Crema Dressing / Avocado / Shredded Marble
       - name: Crispy Kale Caesar Salad (Vegan Option Available)
         ingredients: Kale Chips / Garlic Crumbs / Asiago / Parmesan
       - name: Glazed Beets Quinoa Salad (Vegan)
@@ -53,29 +53,29 @@ mains:
         ingredients: Chipotle Adobo Chicken / Fresh Corn & Pineapple Salsa / Valentina Hot Sauce / Jalapeno Crema
         price: 6.75
       - name: Pork Steamed Buns (2 Pieces)
-        ingredients: Sweet Soy Glazed Pork / House Pickle / Chilly Aioli / Toasted Peanuts
+        ingredients: Sweet Soy Glazed Pork / House Pickles / Lime & Chilli Aioli / Toasted Peanuts
         price: 6.50
       - name: Chicken Steamed Buns (2 Pieces) 
-        ingredients: Spicy Ginger Glazed Chicken / House Pickle / Chilly Aioli / Toasted Peanuts
+        ingredients: Spicy Ginger Glazed Chicken / House Pickles / Lime & Chilli Aioli / Toasted Peanuts
         price: 6.50
       - name: The "Grace" Burger w/ Choice of Side
-        ingredients: 5 oz Seasoned Patty / Garlic Mayo / House Tomato Relish / Mustard / 2 Slices of Bacon / Swiss Cheese
+        ingredients: Seasoned Patty / Garlic Mayo / House Tomato Relish / Mustard / Bacon / Swiss Cheese
         price: 10.50
       - name: Grace Royale Burger w/ Choice of Side
-        ingredients: 5 oz Seasoned Patty / Mushroom Gravy / Onion Remoulade / Mustard / Swiss Cheese
+        ingredients: Seasoned Patty / Mushroom Gravy / Onion Remoulade / Mustard / Dark Ale Cheddar / Bacon
         price: 12.50
       - name: Classic Reuben w/ Choice of Side
-        ingredients: Corn Beef / Sauerkraut / Thousand Island / Marble Rye
+        ingredients: Corn Beef / Sauerkraut / Thousand Island / Marble Rye / Swiss
         price: 9.50
       - name: Buffalo Chicken Wrap
-        ingredients: Grilled Garlic Chicken / Tomato & Onion / House Buffalo Sauce
+        ingredients: Grilled Garlic Chicken / Tomato & Onion / House Buffalo Sauce / Shredded Marble
         price: 8.50
       - name: The Philly Cheese WannaBe
-        ingredients: Homemade Beef Base Dog / Tomato Relish / Dark Ale Infused Cheddar / Banana Peppers
+        ingredients: House Beef Skewer / Tomato Relish / Dark Ale Infused Cheddar / Banana Peppers
         price: 8.50
-      - name: Crunchy Thai Bowl (Vegan)
-        ingredients: Coconut Rice / Stir-Fried Veggies / House Thai Red Curry / Pickle / Crispy Onion / Toasted Peanuts
+      - name: Crunchy Thai Bowl (Vegan Option Available)
+        ingredients: Coconut Rice / Stir-Fried Veggies / House Thai Red Curry / Pickles / Crispy Onion / Toasted Peanuts / Choice of Chicken or Tofu
         price: 7.00
       - name: Vietnamese Rice Bowl
-        ingredients: Coconut Rice / Spicy Ginger Glazed Pork / Veggies / Pickle / Fried Egg
+        ingredients: Coconut Rice / Spicy Ginger Glazed Pork or Chicken / Veggies / Pickles / Fried Egg
         price: 7.50
