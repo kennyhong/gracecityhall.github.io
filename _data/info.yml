@@ -31,8 +31,9 @@ soups:
         ingredients: Topped With Shredded Marble / Green Onions
       - name: Corn & Bacon Chowder
         ingredients: Fresh Parsley / Valentina Hot Sauce
-      - name: Spiced Tomato (Vegan)
-        ingredients: Crispy Tortilla Chips / Fresh Parsley
+      - name: Sweet Potato and Carrot Curry (Vegan)
+        ingredients: Topped With Green Onions
+
 mains:
     title: Mains
     items: 

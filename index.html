@@ -6,10 +6,11 @@ layout: default
     <div class="main">
         <div class="container-fluid">
             <div class="row">
-                <img src="assets/imgs/grace.png" class="logo mx-auto img-fluid" alt="Grace Café"/>
+                
             </div>
             <div class="row menu">
                 <div class="col-md-4 info-hours">
+                    <img src="assets/imgs/grace.png" class="logo mx-auto img-fluid" alt="Grace Café"/>
                     {% for info in site.data.info.info %}
                         <p>Grace Cafe and Grill <br> 
                             {{ info.address }} <br>
@@ -25,6 +26,12 @@ layout: default
                 </div>
                 <div class="col-md-4"></div>
                 <div class="col-md-4">
+                    <h1 class="lead">{{ site.data.info.soups.title }}</h1>
+                    <h2 class="sublead">Large: {{ site.data.info.soups.large }} | Small: {{ site.data.info.soups.small }}</h2>
+                    {% for item in site.data.info.soups.items %}
+                        <p class="food-title">{{ item.name }}</p>
+                        <p class="ingredients">{{ item.ingredients }}</em>
+                    {% endfor %}
                     <h1 class="lead">{{ site.data.info.appetizers.title }}</h1>
                     <h2 class="sublead">Main: {{ site.data.info.appetizers.main }} | Side: {{ site.data.info.appetizers.side }}</h2>
                     {% for item in site.data.info.appetizers.items %}
@@ -32,18 +39,10 @@ layout: default
                         <p class="ingredients">{{ item.ingredients }}</em>
                     {% endfor %}
                 </div>
-                <div class="col-md-4">
-                    <h1 class="lead">{{ site.data.info.soups.title }}</h1>
-                    <h2 class="sublead">Large: {{ site.data.info.soups.large }} | Small: {{ site.data.info.soups.small }}</h2>
-                    {% for item in site.data.info.soups.items %}
-                        <p class="food-title">{{ item.name }}</p>
-                        <p class="ingredients">{{ item.ingredients }}</em>
-                    {% endfor %}
-                </div>
             </div>
             <div class="row menu menu-mains">
                     <div class="col-md-4"></div>
-                    <div class="col-md-8">
+                    <div class="col-md-4">
                             <h1 class="lead">{{ site.data.info.mains.title }}</h1>
                             {% for item in site.data.info.mains.items %}
                                 <p class="food-title">{{ item.name }} |     {{ item.price }}</p>
