@@ -35,7 +35,7 @@ soups:
         ingredients: Topped With Green Onions
 
 mains:
-    title: Mains
+    title: Appetizers and Mains
     items: 
       - name: Baked Potato Salad
         ingredients: Bacon Bits / Green Onions / Roasted Pepper & Corn Relish / House Buttermilk Dressing
@@ -58,15 +58,15 @@ mains:
       - name: Chicken Steamed Buns (2 Pieces) 
         ingredients: Spicy Ginger Glazed Chicken / House Pickles / Lime & Chilli Aioli / Toasted Peanuts
         price: 6.50
-      - name: The "Grace" Burger w/ Choice of Side
+      - name: The "Grace" Burger
         ingredients: Seasoned Patty / Garlic Mayo / House Tomato Relish / Mustard / Bacon / Swiss Cheese
-        price: 10.50
-      - name: Grace Royale Burger w/ Choice of Side
+        price: 8.50
+      - name: Grace Royale Burger
         ingredients: Seasoned Patty / Mushroom Gravy / Onion Remoulade / Mustard / Dark Ale Cheddar / Bacon
-        price: 12.50
-      - name: Classic Reuben w/ Choice of Side
+        price: 11
+      - name: Classic Reuben
         ingredients: Corn Beef / Sauerkraut / Thousand Island / Marble Rye / Swiss
-        price: 9.50
+        price: 8.50
       - name: Buffalo Chicken Wrap
         ingredients: Grilled Garlic Chicken / Tomato & Onion / House Buffalo Sauce / Shredded Marble
         price: 8.50
