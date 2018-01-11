@@ -58,12 +58,12 @@ mains:
       - name: Chicken Steamed Buns (2 Pieces) 
         ingredients: Spicy Ginger Glazed Chicken / House Pickles / Lime & Chilli Aioli / Toasted Peanuts
         price: 6.50
-      - name: The "Grace" Burger
+      - name: The "Grace" Burger w/ Side of Fries
         ingredients: Seasoned Patty / Garlic Mayo / House Tomato Relish / Mustard / Bacon / Swiss Cheese
-        price: 8.50
-      - name: Grace Royale Burger
+        price: 10.50
+      - name: Grace Royale Burger w/ Side of Fries
         ingredients: Seasoned Patty / Mushroom Gravy / Onion Remoulade / Mustard / Dark Ale Cheddar / Bacon
-        price: 11
+        price: 12.50
       - name: Classic Reuben
         ingredients: Corn Beef / Sauerkraut / Thousand Island / Marble Rye / Swiss
         price: 8.50
@@ -74,7 +74,7 @@ mains:
         ingredients: House Beef Skewer / Tomato Relish / Dark Ale Infused Cheddar / Banana Peppers
         price: 8.50
       - name: Crunchy Thai Bowl (Vegan Option Available)
-        ingredients: Coconut Rice / Stir-Fried Veggies / House Thai Red Curry / Pickles / Crispy Onion / Toasted Peanuts / Choice of Chicken or Tofu
+        ingredients: Coconut Rice / Stir-Fried Veggies / House Thai Red Curry / Pickles / Crispy Onion / Toasted Peanuts<br>Add Chicken - 1.50 | Add Tofu - 1
         price: 7.00
       - name: Vietnamese Rice Bowl
         ingredients: Coconut Rice / Spicy Ginger Glazed Pork or Chicken / Veggies / Pickles / Fried Egg
