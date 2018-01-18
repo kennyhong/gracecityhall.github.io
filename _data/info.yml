@@ -11,8 +11,8 @@ info:
 
 appetizers:
     title: Salads
-    main: 7.50
-    side: 4.50
+    main: 8
+    side: 4
     items:
       - name: Grace Taco Salad
         ingredients: Chilli Beef / Kidney Beans / Tomatoes / Salsa Crema Dressing / Avocado / Shredded Marble
@@ -24,8 +24,8 @@ appetizers:
 soups:
     title: Warm Hearty Soups
     subtitle: Made Fresh Daily, All Gluten Free!
-    large: 5.25
-    small: 4.25
+    large: 5
+    small: 4
     items:
       - name: Potato & Leeks
         ingredients: Topped With Shredded Marble / Green Onions
@@ -45,13 +45,13 @@ mains:
         price: 3.50
       - name: Tenders and Fries
         ingredients: Served With Butter Ranch or Honey Dill
-        price: 9.95
+        price: 10
       - name: Marinated Tomatoes & Avocado Toast (Vegan)
         ingredients: Crushed Avocado / Lemon Curry Tomatoes / Coconut Ricotta / Crispy Onions
         price: 6.50
       - name: Valentina Chicken Taco
         ingredients: Chipotle Adobo Chicken / Fresh Corn & Pineapple Salsa / Valentina Hot Sauce / Jalapeno Crema
-        price: 6.75
+        price: 6.50
       - name: Pork Steamed Buns (2 Pieces)
         ingredients: Sweet Soy Glazed Pork / House Pickles / Lime & Chilli Aioli / Toasted Peanuts
         price: 6.50
@@ -63,7 +63,7 @@ mains:
         price: 10.50
       - name: Grace Royale Burger w/ Side of Fries
         ingredients: Seasoned Patty / Mushroom Gravy / Onion Remoulade / Mustard / Dark Ale Cheddar / Bacon
-        price: 12.50
+        price: 13
       - name: Classic Reuben
         ingredients: Corn Beef / Sauerkraut / Thousand Island / Marble Rye / Swiss
         price: 8.50
