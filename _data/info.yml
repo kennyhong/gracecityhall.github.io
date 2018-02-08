@@ -77,5 +77,5 @@ mains:
         ingredients: Coconut Rice / Stir-Fried Veggies / House Thai Red Curry / Pickles / Crispy Onion / Toasted Peanuts<br>Add Chicken - 1.50 | Add Tofu - 1
         price: 7.00
       - name: Vietnamese Rice Bowl
-        ingredients: Coconut Rice / Spicy Ginger Glazed Pork or Chicken / Veggies / Pickles / Fried Egg
-        price: 7.50
+        ingredients: Coconut Rice / Spicy Ginger Glazed Veggies / Pickles / Fried Egg / <br>Add Chicken or Pork - 1.50
+        price: 7.00
