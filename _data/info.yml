@@ -9,34 +9,48 @@ info:
     telephone: +1 (204) 946-0265
     email: chris@gracecafe.com
 
-appetizers:
+salads:
     title: Salads
     main: 8
     side: 4
     items:
       - name: Grace Taco Salad
         ingredients: Chilli Beef / Kidney Beans / Tomatoes / Salsa Crema Dressing / Avocado / Shredded Marble
-      - name: Crispy Kale Caesar Salad (Vegan Option Available)
-        ingredients: Kale Chips / Garlic Crumbs / Asiago / Parmesan
       - name: Glazed Beets Quinoa Salad (Vegan)
         ingredients: Lemon Oil Infused Quinoa / Roasted Beets / Balsamic Glaze / Tomatoes
 
-soups:
-    title: Warm Hearty Soups
-    subtitle: Made Fresh Daily, All Gluten Free!
-    large: 5
-    small: 4
+asian_influenced:
+  title: Asian Influenced Bowls
     items:
-      - name: Potato & Leeks
-        ingredients: Topped With Shredded Marble / Green Onions
-      - name: Corn & Bacon Chowder
-        ingredients: Fresh Parsley / Valentina Hot Sauce
-      - name: Sweet Potato and Carrot Curry (Vegan)
-        ingredients: Topped With Green Onions
+      - name: Crunchy Thai Bowl (Vegan Option Available)
+        ingredients: Coconut Rice / Stir-Fried Veggies / House Thai Red Curry / Pickles / Crispy Onion / Toasted Peanuts
+        price: 8.00
+      - name: Vietnamese Rice Bowl
+        ingredients: Coconut Rice / Stir-Fried Veggies / Chilly Aioli & Soy Glaze / Crispy Onions / Fried Egg / Toasted Peanuts
+        price: 8.00
+      - name: Indo Fried Noodle Bowl (Mie Goreng)
+        ingredients: Egg Noodles / Stir-Fried Veggies / Sweet Garlic Oyster Sauce / Sambal Curry Aioli / Fried Egg / Toasted Peanuts
+        price: 8.50
+      - name: Singaporean Noodle Bowl (Laksa)
+        ingredients: Egg Noodles / Veggies / Crispy Tofy / Fragrant Chicken Broth / Hint of Curry / Fresh Tomoatoes
+        price: 8.50
+
+steamed_buns:
+  title: Steamed Buns (3 Pieces)
+    main: 8.00
+      - name: Pork Bao Buns
+        ingredients: Sweet Soy Glazed Pork / House Pickles / Lime & Chili Aioli / Toasted Peanuts
+      - name: Chicken Bao Buns
+        ingredients: Spicy Ginger Glazed Chicken / House Pickles / Lime & Chili Aioli / Toasted Peanuts
+      - name: Tofu Bao Buns
+        ingredients: Sweet Soy Crispy Tofu / House Pickles / Lime & Chili Aioli / Toasted Peanuts
 
 mains:
-    title: Appetizers and Mains
+    title: Mains
     items: 
+      - name: Vietnamese Steak Sandwich (Banh Mi)
+        ingredients: Marinated Steak / Chili Mayo / House Pickles / Toasted Peanuts / Spicy Lime & Ginger Glaze
+        price: 9.00
       - name: Baked Potato Salad
         ingredients: Bacon Bits / Green Onions / Roasted Pepper & Corn Relish / House Buttermilk Dressing
         price: 5.50
@@ -45,18 +59,12 @@ mains:
         price: 3.50
       - name: Tenders and Fries
         ingredients: Served With Butter Ranch or Honey Dill
-        price: 10
+        price: 10.00
       - name: Marinated Tomatoes & Avocado Toast (Vegan)
         ingredients: Crushed Avocado / Lemon Curry Tomatoes / Coconut Ricotta / Crispy Onions
         price: 6.50
       - name: Valentina Chicken Taco
         ingredients: Chipotle Adobo Chicken / Fresh Corn & Pineapple Salsa / Valentina Hot Sauce / Jalapeno Crema
-        price: 6.50
-      - name: Pork Steamed Buns (2 Pieces)
-        ingredients: Sweet Soy Glazed Pork / House Pickles / Lime & Chilli Aioli / Toasted Peanuts
-        price: 6.50
-      - name: Chicken Steamed Buns (2 Pieces) 
-        ingredients: Spicy Ginger Glazed Chicken / House Pickles / Lime & Chilli Aioli / Toasted Peanuts
         price: 6.50
       - name: The "Grace" Burger w/ Side of Fries
         ingredients: Seasoned Patty / Garlic Mayo / House Tomato Relish / Mustard / Bacon / Swiss Cheese
@@ -73,9 +81,3 @@ mains:
       - name: The Philly Cheese WannaBe
         ingredients: House Beef Skewer / Tomato Relish / Dark Ale Infused Cheddar / Banana Peppers
         price: 8.50
-      - name: Crunchy Thai Bowl (Vegan Option Available)
-        ingredients: Coconut Rice / Stir-Fried Veggies / House Thai Red Curry / Pickles / Crispy Onion / Toasted Peanuts<br>Add Chicken - 1.50 | Add Tofu - 1
-        price: 7.00
-      - name: Vietnamese Rice Bowl
-        ingredients: Coconut Rice / Spicy Ginger Glazed Pork or Chicken / Veggies / Pickles / Fried Egg
-        price: 7.50
