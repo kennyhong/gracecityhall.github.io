@@ -27,21 +27,21 @@ layout: default
                 <div class="col-md-4"></div>
                 <div class="col-md-4">
                     <h1 class="lead">Call us for information on our daily soups!</h1>
-                    <h1 class="lead">{{ site.data.info.appetizers.title }}</h1>
-                    <h2 class="sublead">Main: {{ site.data.info.appetizers.main }} | Side: {{ site.data.info.appetizers.side }}</h2>
-                    {% for item in site.data.info.appetizers.items %}
+                    <h1 class="lead">{{ site.data.info.salads.title }}</h1>
+                    <h2 class="sublead">Main: {{ site.data.info.salads.main }} | Side: {{ site.data.info.salads.side }}</h2>
+                    {% for item in site.data.info.salads.items %}
                         <p class="food-title">{{ item.name }}</p>
                         <p class="ingredients">{{ item.ingredients }}</em>
                     {% endfor %}
-                    <h1 class="lead">{{ site.data.info.appetizers.title }}</h1>
-                    <h2 class="sublead">Main: {{ site.data.info.appetizers.main }} | Side: {{ site.data.info.appetizers.side }}</h2>
-                    {% for item in site.data.info.appetizers.items %}
-                        <p class="food-title">{{ item.name }}</p>
-                        <p class="ingredients">{{ item.ingredients }}</em>
+                    <h1 class="lead">{{ site.data.info.asian_influenced.title }}</h1>
+                    <h2 class="sublead">Add Tofu - 1.0 / Chicken or Pork - 1.5 / Beef - 2.0 </h2>
+                    {% for item in site.data.info.asian_influenced.items %}
+                        <p class="food-title">{{ item.name }} |     {{ item.price }}</p>
+                        <p class="ingredients">{{ item.ingredients }}</p>
                     {% endfor %}
-                    <h1 class="lead">{{ site.data.info.appetizers.title }}</h1>
-                    <h2 class="sublead">Main: {{ site.data.info.appetizers.main }} | Side: {{ site.data.info.appetizers.side }}</h2>
-                    {% for item in site.data.info.appetizers.items %}
+                    <h1 class="lead">{{ site.data.info.steamed_buns.title }}</h1>
+                    <h2 class="sublead">3 Buns: {{ site.data.info.steamed_buns.main }}</h2>
+                    {% for item in site.data.info.steamed_buns.items %}
                         <p class="food-title">{{ item.name }}</p>
                         <p class="ingredients">{{ item.ingredients }}</em>
                     {% endfor %}

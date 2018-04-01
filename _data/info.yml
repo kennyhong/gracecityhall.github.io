@@ -6,7 +6,7 @@ info:
     event_text_3:
     address: 510 Main Street
     city: Winnipeg, Manitoba
-    telephone: +1 (204) 946-0265
+    telephone: +1 (204) 946-0264
     email: chris@gracecafe.com
 
 salads:
@@ -21,23 +21,24 @@ salads:
 
 asian_influenced:
   title: Asian Influenced Bowls
-    items:
-      - name: Crunchy Thai Bowl (Vegan Option Available)
-        ingredients: Coconut Rice / Stir-Fried Veggies / House Thai Red Curry / Pickles / Crispy Onion / Toasted Peanuts
-        price: 8.00
-      - name: Vietnamese Rice Bowl
-        ingredients: Coconut Rice / Stir-Fried Veggies / Chilly Aioli & Soy Glaze / Crispy Onions / Fried Egg / Toasted Peanuts
-        price: 8.00
-      - name: Indo Fried Noodle Bowl (Mie Goreng)
-        ingredients: Egg Noodles / Stir-Fried Veggies / Sweet Garlic Oyster Sauce / Sambal Curry Aioli / Fried Egg / Toasted Peanuts
-        price: 8.50
-      - name: Singaporean Noodle Bowl (Laksa)
-        ingredients: Egg Noodles / Veggies / Crispy Tofy / Fragrant Chicken Broth / Hint of Curry / Fresh Tomoatoes
-        price: 8.50
+  items:
+    - name: Crunchy Thai Bowl (Vegan Option Available)
+      ingredients: Coconut Rice / Stir-Fried Veggies / House Thai Red Curry / Pickles / Crispy Onion / Toasted Peanuts
+      price: 8.00
+    - name: Vietnamese Rice Bowl
+      ingredients: Coconut Rice / Stir-Fried Veggies / Chilly Aioli & Soy Glaze / Crispy Onions / Fried Egg / Toasted Peanuts
+      price: 8.00
+    - name: Indo Fried Noodle Bowl (Mie Goreng)
+      ingredients: Egg Noodles / Stir-Fried Veggies / Sweet Garlic Oyster Sauce / Sambal Curry Aioli / Fried Egg / Toasted Peanuts
+      price: 8.50
+    - name: Singaporean Noodle Bowl (Laksa)
+      ingredients: Egg Noodles / Veggies / Crispy Tofy / Fragrant Chicken Broth / Hint of Curry / Fresh Tomoatoes
+      price: 8.50
 
 steamed_buns:
-  title: Steamed Buns (3 Pieces)
-    main: 8.00
+  title: Steamed Buns
+  main: 8.00
+  items:
       - name: Pork Bao Buns
         ingredients: Sweet Soy Glazed Pork / House Pickles / Lime & Chili Aioli / Toasted Peanuts
       - name: Chicken Bao Buns
@@ -51,15 +52,9 @@ mains:
       - name: Vietnamese Steak Sandwich (Banh Mi)
         ingredients: Marinated Steak / Chili Mayo / House Pickles / Toasted Peanuts / Spicy Lime & Ginger Glaze
         price: 9.00
-      - name: Baked Potato Salad
-        ingredients: Bacon Bits / Green Onions / Roasted Pepper & Corn Relish / House Buttermilk Dressing
-        price: 5.50
-      - name: French Fries
-        ingredients: Double Blanched / House Seasoning / Add Gravy .50
-        price: 3.50
-      - name: Tenders and Fries
-        ingredients: Served With Butter Ranch or Honey Dill
-        price: 10.00
+      - name: Southern Pulled Chicken Burger
+        ingredients: Southern Comeback Sauce / Swiss / Garlic Mayo / Caramelized Onions / Lettuce / Tomatoes
+        price: 10.50
       - name: Marinated Tomatoes & Avocado Toast (Vegan)
         ingredients: Crushed Avocado / Lemon Curry Tomatoes / Coconut Ricotta / Crispy Onions
         price: 6.50
@@ -68,16 +63,19 @@ mains:
         price: 6.50
       - name: The "Grace" Burger w/ Side of Fries
         ingredients: Seasoned Patty / Garlic Mayo / House Tomato Relish / Mustard / Bacon / Swiss Cheese
-        price: 10.50
-      - name: Grace Royale Burger w/ Side of Fries
-        ingredients: Seasoned Patty / Mushroom Gravy / Onion Remoulade / Mustard / Dark Ale Cheddar / Bacon
-        price: 13
+        price: 12
+      - name: Tenders and Fries
+        ingredients: Served With Butter Ranch or Honey Dill
+        price: 10.00
+      - name: Poutine
+        ingredients: Double Blanched Seasoned Fries / Gravy / Shredded Marble Cheese
+        price: 5.50
+      - name: French Fries
+        ingredients: Double Blanched Seasoned Fries / Add Gravy .50
+        price: 3.50
       - name: Classic Reuben
         ingredients: Corn Beef / Sauerkraut / Thousand Island / Marble Rye / Swiss
         price: 8.50
       - name: Buffalo Chicken Wrap
-        ingredients: Grilled Garlic Chicken / Tomato & Onion / House Buffalo Sauce / Shredded Marble
-        price: 8.50
-      - name: The Philly Cheese WannaBe
-        ingredients: House Beef Skewer / Tomato Relish / Dark Ale Infused Cheddar / Banana Peppers
+        ingredients: Grilled Garlic Chicken / Tomato & Onion / House Buffalo Sauce 
         price: 8.50
