@@ -26,6 +26,25 @@ layout: default
                 </div>
                 <div class="col-md-4"></div>
                 <div class="col-md-4">
+                    {% if site.data.info.event_menu %}
+                        <h1 class="lead">{{ site.data.info.event_menu.title }}</h1>
+                        <h2 class="sublead">{{ site.data.info.event_menu.event_heading1 }}</h2>
+                        {% for item in site.data.info.event_menu.items %}
+                            <p class="food-title">{{item.name}} {% if item.name != "Sides" %}|   {{ item.price }}{% endif %}</p>
+                            {% if item.option1 %}
+                                <p class="ingredients">- {{ item.option1 }} {% if item.name == "Sides" %}|   {{ item.price1 }}{% endif %}</p>
+                            {% endif %}
+                            {% if item.option2 %}
+                                <p class="ingredients">- {{ item.option2 }} {% if item.name == "Sides" %}|   {{ item.price2 }}{% endif %}</p>
+                            {% endif %}
+                            {% if item.option3 %}
+                                <p class="ingredients">- {{ item.option3 }}</p>
+                            {% endif %}
+                            {% if item.option4 %}
+                                <p class="ingredients">- {{ item.option4 }}</p>
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
                     <h1 class="lead">Call us for information on our daily soups!</h1>
                     <h1 class="lead">{{ site.data.info.salads.title }}</h1>
                     <h2 class="sublead">Main: {{ site.data.info.salads.main }} | Side: {{ site.data.info.salads.side }}</h2>

@@ -1,13 +1,37 @@
 info:
   - hours: "<br>Mon - Fri: 7 AM - 3:30 PM <br> Sat / Sun: CLOSED"
-    special_hours:
-    event_text_1:
-    event_text_2:
-    event_text_3:
+    special_hours: true
+    event_text_1: "<br>Mother's Day Brunch<br>"
+    event_text_2: "Sunday, May 13th 2018<br>"
+    event_text_3: "LIMTED SEATING! <br>Call for Reservations."
     address: 510 Main Street
     city: Winnipeg, Manitoba
     telephone: +1 (204) 946-0264
     email: chris@gracecafe.com
+
+event_menu:
+    title: Mother's Day Brunch
+    event_heading1: A La Carte Menu&#58; $8 - $15
+    items:
+      - name: Grace Combo -  Start With Homemade Brioche & Over Easy Egg Topped With One of The Following&#58;
+        price: 15
+        option1: Lolo's Filipino Smokies, Soy Glaze, Sambal Aioli, Pickled Onions
+        option2: Crispy Confit Chicken, Harissa Aioli, Pineapple Chutney, Toasted Seasame
+        option3: Banh Mi - Vietnamese Marinated Steak, Chilli Aioli, Pickled Daikon & Carrot, Ginger Glaze
+        option4: Grilled Portabella Mushroom, Laksa Curry, Pickled Cucumber, Coconut Lime Risotta, Toasted Peanuts (Vegetarian and Vegan Option Available)
+      - name: Umami Grilled Cheese - Onion Chedder Brioche, Brie and Swiss, Bourbon Glazed Bacon, Egg, Black Garlic Mayo
+        price: 12
+      - name: Southern Hash Cheese (Gluten-Free) - Pulled Chicken, Grilled Corn and Pineapple Salsa, New Potatoes, Melted Cheddar, Comeback Sauce
+        price: 12
+      - name: Avocado Toast (Gluten-Free / Vegan / Vegetarian Available) - Marinated Tomatoes, Lemon Garlic Crushed Avocado, Coconut Ricotta, Grilled Mushrooms, Crispy Onions, With Eggs or Tofu
+        price: 8
+      - name: Grandma D's Beet Velvet Pancake - Manitoba Beets, Charred Lemon Cream Cheese Mousse, Crusted Peanuts, Lime Zest
+        price: 8
+      - name: Sides
+        option1: Hash, Roasted Corn, Dill Crème, Valentina Hot Sauce (Gluten-Free)
+        price1: 5
+        option2: Manitoba Beets, Lemon Infused Quinoa, Balsamic Glaze, Tomatoes (Vegan / Gluten-Free)
+        price2: 4
 
 salads:
     title: Salads
